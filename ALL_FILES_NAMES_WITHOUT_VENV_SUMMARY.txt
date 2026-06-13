@@ -1,0 +1,12 @@
+ALL FILES WITHOUT VIRTUAL ENVIRONMENTS
+======================================
+Root: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612
+Excluded:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_sdwebui
+
+Files: 13928
+Size GB: 27.61
+
+CSV: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\ALL_FILES_NAMES_WITHOUT_VENV.csv
+TXT: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\ALL_FILES_NAMES_WITHOUT_VENV.txt
