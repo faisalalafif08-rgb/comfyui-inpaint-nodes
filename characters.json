@@ -1,0 +1,23 @@
+{
+  "Amal": {
+    "voice": "Amal",
+    "dialect": "lebanese",
+    "language": "ar",
+    "style": "calm",
+    "avatar": ""
+  },
+  "Maya": {
+    "voice": "Maya",
+    "dialect": "lebanese",
+    "language": "ar",
+    "style": "cinema",
+    "avatar": ""
+  },
+  "Fno": {
+    "voice": "Fno",
+    "dialect": "hijazi",
+    "language": "ar",
+    "style": "radio",
+    "avatar": ""
+  }
+}
