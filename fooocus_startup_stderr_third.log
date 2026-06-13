@@ -1,0 +1,2 @@
+Traceback (most recent call last):
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request

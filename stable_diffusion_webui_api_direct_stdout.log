@@ -1,0 +1,24 @@
+Running Stable Diffusion WebUI API direct from: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master
+Python 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)]
+Version: 1.10.1
+Commit hash: <none>
+Fetching updates for Stable Diffusion...
+Checking out commit for Stable Diffusion with hash: main...
+M	ldm/data/__init__.py
+M	ldm/models/diffusion/ddpm.py
+M	ldm/modules/attention.py
+Your branch is up to date with 'origin/main'.
+Launching Web UI with arguments: --skip-install --skip-version-check --skip-torch-cuda-test --medvram-sdxl --api --port 7870
+no module 'xformers'. Processing without...
+no module 'xformers'. Processing without...
+Loading weights [aeb7e9e689] from D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\models\Stable-diffusion\juggernautXL_v8Rundiffusion.safetensors
+Running on local URL:  http://127.0.0.1:7870
+
+To create a public link, set `share=True` in `launch()`.
+Startup time: 101.5s (initial startup: 0.3s, prepare environment: 9.1s, import torch: 57.3s, import gradio: 10.3s, setup paths: 6.6s, import ldm: 0.3s, initialize shared: 1.4s, other imports: 3.4s, setup gfpgan: 0.2s, list SD models: 0.5s, load scripts: 2.0s, reload hypernetworks: 0.2s, initialize extra networks: 0.6s, scripts before_ui_callback: 0.2s, create ui: 2.6s, gradio launch: 7.4s, add APIs: 0.7s).
+Creating model from config: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\generative-models\configs\inference\sd_xl_base.yaml
+Applying attention optimization: Doggettx... done.
+Model loaded in 282.3s (load weights from disk: 11.9s, create model: 2.1s, apply weights to model: 257.5s, apply half(): 0.6s, apply dtype to VAE: 0.1s, move model to device: 0.1s, hijack: 0.4s, load textual inversion embeddings: 0.7s, calculate empty prompt: 8.8s).
+
+Total progress:   0%|          | 0/1 [00:00<?, ?it/s][A
+Total progress: 100%|██████████| 1/1 [00:11<00:00, 11.84s/it][ATotal progress: 100%|██████████| 1/1 [00:11<00:00, 11.84s/it]

@@ -1,0 +1,29 @@
+venv "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_sdwebui\Scripts\Python.exe"
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Cloning into 'D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\stable-diffusion-webui-assets'...
+Python 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)]
+Traceback (most recent call last):
+Version: 1.10.1
+Commit hash: <none>
+Cloning assets into D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\stable-diffusion-webui-assets...
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\launch.py", line 48, in <module>
+    main()
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\launch.py", line 39, in main
+    prepare_environment()
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 411, in prepare_environment
+    git_clone(assets_repo, repo_dir('stable-diffusion-webui-assets'), "assets", assets_commit_hash)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 198, in git_clone
+    run(f'"{git}" -C "{dir}" checkout {commithash}', None, "Couldn't checkout {name}'s hash: {commithash}")
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 116, in run
+    raise RuntimeError("\n".join(error_bits))
+RuntimeError: Couldn't checkout {name}'s hash: {commithash}.
+Command: "D:\portable_tools\PortableGit-2.54.0-64-bit-full\bin\git.exe" -C "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\stable-diffusion-webui-assets" checkout 6f7db241d2f8ba7457bac5ca9753331f0c266917
+Error code: 128
+stderr: fatal: detected dubious ownership in repository at 'D:/zzipp/جي بي/الكميرا/_organized_generation_workspace_20260612/02_stable_diffusion_webui/stable-diffusion-webui-master/stable-diffusion-webui-master/repositories/stable-diffusion-webui-assets'
+'D:/zzipp/جي بي/الكميرا/_organized_generation_workspace_20260612/02_stable_diffusion_webui/stable-diffusion-webui-master/stable-diffusion-webui-master/repositories/stable-diffusion-webui-assets' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/zzipp/جي بي/الكميرا/_organized_generation_workspace_20260612/02_stable_diffusion_webui/stable-diffusion-webui-master/stable-diffusion-webui-master/repositories/stable-diffusion-webui-assets'
+
+Press any key to continue . . . 

@@ -1,0 +1,40 @@
+قائمة البرومبتات والمساعدات فقط - ليست برامج تشغيل
+
+المسار الرئيسي: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612
+ملف CSV الكامل: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\PROMPTS_AND_HELPERS_ONLY_LIST.csv
+
+القرار:
+- هذه الملفات للاستخدام داخل Fooocus أو للمراجعة فقط.
+- ليست ملفات تشغيل.
+- لا تشغلها كبرنامج.
+- انسخ منها البرومبتات أو استخدمها كـ styles / wildcards / presets داخل Fooocus.
+
+الملخص حسب الفئة:
+- Documentation / helper guide: 10 ملف
+- Fooocus run presets: 16 ملف
+- Fooocus style presets: 12 ملف
+- Fooocus wildcards: 14 ملف
+- Prompt pack / female helper: 6 ملف
+- Prompt text / positive-negative: 2 ملف
+
+أهم حزمة برومبتات مستقلة:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\female_prompt_pack\Fooocus_Female_System_Windows
+
+ملفاتها:
+- NEGATIVE_PROMPT.txt = Copy/paste prompts and templates into Fooocus prompt boxes
+- PROMPTS_AR.txt = Copy/paste prompts and templates into Fooocus prompt boxes
+- PROMPTS_EN.txt = Copy/paste prompts and templates into Fooocus prompt boxes
+- README_AR.md = Copy/paste prompts and templates into Fooocus prompt boxes
+- START_HERE_AR.txt = Copy/paste prompts and templates into Fooocus prompt boxes
+- SYSTEM_TEMPLATE.txt = Copy/paste prompts and templates into Fooocus prompt boxes
+
+أمثلة استخدام:
+- PROMPTS_AR.txt: برومبتات عربية جاهزة للنسخ داخل خانة Prompt.
+- PROMPTS_EN.txt: برومبتات إنجليزية جاهزة.
+- NEGATIVE_PROMPT.txt: انسخها في خانة Negative Prompt.
+- SYSTEM_TEMPLATE.txt: قالب تنظيم فكرة الشخصية/المشهد.
+- sdxl_styles_*.json: ملفات ستايلات يستخدمها Fooocus.
+- wildcards/*.txt: قوائم كلمات للتنويع في البرومبتات.
+- presets/*.json: إعدادات نمط/وضع داخل Fooocus، وليست تشغيل مباشر.
+
+كل العناصر بالتفصيل موجودة في ملف CSV.

@@ -1,0 +1,22 @@
+Looking in indexes: https://pypi.org/simple, https://download.pytorch.org/whl/cu121
+Collecting MarkupSafe==2.1.5
+  Downloading MarkupSafe-2.1.5-cp310-cp310-win_amd64.whl (17 kB)
+Collecting jinja2==3.1.2
+  Downloading Jinja2-3.1.2-py3-none-any.whl (133 kB)
+Collecting torchaudio==2.1.0
+  Using cached torchaudio-2.1.0%2Bcu121-cp310-cp310-win_amd64.whl (4.0 MB)
+Installing collected packages: torchaudio, MarkupSafe, jinja2
+  Attempting uninstall: torchaudio
+    Found existing installation: torchaudio 2.5.1+cu121
+    Not uninstalling torchaudio at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'torchaudio'. No files were found to uninstall.
+  Attempting uninstall: MarkupSafe
+    Found existing installation: MarkupSafe 3.0.3
+    Uninstalling MarkupSafe-3.0.3:
+      Successfully uninstalled MarkupSafe-3.0.3
+  Attempting uninstall: jinja2
+    Found existing installation: Jinja2 3.1.6
+    Uninstalling Jinja2-3.1.6:
+      Successfully uninstalled Jinja2-3.1.6
+
+Successfully installed MarkupSafe-2.1.5 jinja2-3.1.2 torchaudio-2.1.0+cu121

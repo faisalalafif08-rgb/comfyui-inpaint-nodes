@@ -1,0 +1,18 @@
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Cloning into 'D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\stable-diffusion-stability-ai'...
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+Traceback (most recent call last):
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\launch.py", line 48, in <module>
+    main()
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\launch.py", line 39, in main
+    prepare_environment()
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 412, in prepare_environment
+    git_clone(stable_diffusion_repo, repo_dir('stable-diffusion-stability-ai'), "Stable Diffusion", stable_diffusion_commit_hash)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 192, in git_clone
+    run(f'"{git}" clone --config core.filemode=false "{url}" "{dir}"', f"Cloning {name} into {dir}...", f"Couldn't clone {name}", live=True)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 116, in run
+    raise RuntimeError("\n".join(error_bits))
+RuntimeError: Couldn't clone Stable Diffusion.
+Command: "D:\portable_tools\PortableGit-2.54.0-64-bit-full\bin\git.exe" clone --config core.filemode=false "https://github.com/Stability-AI/stablediffusion.git" "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\stable-diffusion-stability-ai"
+Error code: 128

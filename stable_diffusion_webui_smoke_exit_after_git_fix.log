@@ -1,0 +1,25 @@
+venv "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_sdwebui\Scripts\Python.exe"
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Cloning into 'D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\stable-diffusion-webui-assets'...
+fatal: cannot write keep file 'D:/zzipp/جي بي/الكميرا/_organized_generation_workspace_20260612/02_stable_diffusion_webui/stable-diffusion-webui-master/stable-diffusion-webui-master/repositories/stable-diffusion-webui-assets/.git/objects/pack/pack-d3f1720a123dc5da51c7969785d951d2d2d44621.keep': Filename too long
+fatal: fetch-pack: invalid index-pack output
+Python 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)]
+Traceback (most recent call last):
+Version: 1.10.1
+Commit hash: <none>
+Cloning assets into D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\stable-diffusion-webui-assets...
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\launch.py", line 48, in <module>
+    main()
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\launch.py", line 39, in main
+    prepare_environment()
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 411, in prepare_environment
+    git_clone(assets_repo, repo_dir('stable-diffusion-webui-assets'), "assets", assets_commit_hash)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 192, in git_clone
+    run(f'"{git}" clone --config core.filemode=false "{url}" "{dir}"', f"Cloning {name} into {dir}...", f"Couldn't clone {name}", live=True)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\modules\launch_utils.py", line 116, in run
+    raise RuntimeError("\n".join(error_bits))
+RuntimeError: Couldn't clone assets.
+Command: "D:\portable_tools\PortableGit-2.54.0-64-bit-full\bin\git.exe" clone --config core.filemode=false "https://github.com/AUTOMATIC1111/stable-diffusion-webui-assets.git" "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\repositories\stable-diffusion-webui-assets"
+Error code: 128
+Press any key to continue . . . 

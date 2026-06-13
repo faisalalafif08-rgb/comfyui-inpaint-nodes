@@ -1,0 +1,307 @@
+شرح تشغيل نظام الإنتاج الحالي
+Fooocus + Stable Diffusion WebUI
+
+المسار الرئيسي للنظام:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612
+
+هذا الملف يشرح:
+1) طريقة التشغيل الحالية السريعة
+2) طريقة التشغيل الكاملة الثقيلة
+3) طريقة إعداد أو إصلاح البيئات الافتراضية
+4) طريقة فتح الواجهة من الجوال
+
+============================================================
+1) الخلاصة الحالية
+============================================================
+
+النظام منظم داخل مجلد واحد:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612
+
+أهم المجلدات:
+
+01_fooocus
+= نسخ Fooocus الجاهزة للتوليد.
+
+02_stable_diffusion_webui
+= نسخة Stable Diffusion WebUI.
+
+03_shared_models_and_outputs
+= مخرجات وتجارب مشتركة، وفيه فحص Stable Diffusion API.
+
+04_run_scripts
+= سكربتات التشغيل الجاهزة.
+
+05_docs_reports
+= التقارير، الجداول، الشرح، وسجلات التشغيل.
+
+.venv_fooocus
+= البيئة الافتراضية المستخدمة لتشغيل Fooocus.
+
+.venv_sdwebui
+= البيئة الافتراضية المستخدمة لتشغيل Stable Diffusion WebUI.
+
+ملاحظة:
+ملفات الجرد بدون البيئات الافتراضية موجودة في:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\ALL_FULL_PATHS_WITHOUT_VENV_8_BATCHES
+
+============================================================
+2) التشغيل الحالي السريع - Fooocus الأساسي
+============================================================
+
+هذا هو الخيار الأساسي للإنتاج الآن.
+
+شغل الملف:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_fooocus_main_canonical.bat
+
+أو من PowerShell:
+
+cd "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts"
+.\run_fooocus_main_canonical.bat
+
+يفتح على الكمبيوتر:
+http://127.0.0.1:7869
+
+ومن الجوال داخل نفس شبكة البيت:
+http://192.168.3.16:7869
+
+هذا السكربت يستخدم:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\Scripts\python.exe
+
+ويشغل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\run_no_update.py
+
+المخرجات غالبا تكون داخل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\outputs
+
+============================================================
+3) تشغيل Fooocus البديل
+============================================================
+
+هذه نسخة Fooocus ثانية من entry_with_update.
+مفيدة إذا احتجت نسخة بديلة أو ملفات مختلفة.
+
+شغل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_fooocus_entry_with_update_full_no_update.bat
+
+أو:
+
+cd "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts"
+.\run_fooocus_entry_with_update_full_no_update.bat
+
+يفتح على الكمبيوتر:
+http://127.0.0.1:7871
+
+ومن الجوال داخل نفس شبكة البيت:
+http://192.168.3.16:7871
+
+المسار:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\entry_with_update_full
+
+ملاحظة:
+لا تجعله الأساسي إلا إذا احتجت شيء غير موجود في Fooocus الأساسي.
+
+============================================================
+4) تشغيل Stable Diffusion WebUI API
+============================================================
+
+هذا الخيار أثقل من Fooocus.
+استخدمه عند الحاجة للـ API أو أدوات WebUI.
+
+شغل من PowerShell:
+
+powershell -ExecutionPolicy Bypass -File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_stable_diffusion_webui_api_direct.ps1"
+
+يفتح على الكمبيوتر:
+http://127.0.0.1:7870
+
+ومن الجوال داخل نفس شبكة البيت:
+http://192.168.3.16:7870
+
+المسار:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master
+
+البيئة المستخدمة:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_sdwebui
+
+المخرجات والفحص:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\03_shared_models_and_outputs\stable_diffusion_api_probe
+
+============================================================
+5) الطريقة الكاملة الثقيلة
+============================================================
+
+هذه الطريقة إذا تريد تشغيل الإنتاج الكامل وتجربة كل الأنظمة الجاهزة.
+
+الترتيب المقترح:
+
+أولا: Fooocus الأساسي
+شغل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_fooocus_main_canonical.bat
+
+افتح:
+http://127.0.0.1:7869
+
+ثانيا: Fooocus البديل عند الحاجة
+شغل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_fooocus_entry_with_update_full_no_update.bat
+
+افتح:
+http://127.0.0.1:7871
+
+ثالثا: Stable Diffusion WebUI API
+شغل:
+powershell -ExecutionPolicy Bypass -File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_stable_diffusion_webui_api_direct.ps1"
+
+افتح:
+http://127.0.0.1:7870
+
+مهم:
+لا تشغل كل شيء مرة واحدة إذا الذاكرة أو كرت الشاشة مضغوط.
+ابدأ بـ Fooocus الأساسي، ثم شغل البديل أو Stable Diffusion فقط عند الحاجة.
+
+============================================================
+6) فتح الواجهة من الجوال
+============================================================
+
+لازم الكمبيوتر والجوال يكونون على نفس شبكة البيت.
+
+روابط الجوال:
+
+Fooocus الأساسي:
+http://192.168.3.16:7869
+
+Stable Diffusion WebUI:
+http://192.168.3.16:7870
+
+Fooocus البديل:
+http://192.168.3.16:7871
+
+إذا ما فتحت من الجوال، غالبا جدار حماية ويندوز.
+افتح PowerShell كمسؤول وشغل:
+
+New-NetFirewallRule -DisplayName "AI UI 7869" -Direction Inbound -Action Allow -Protocol TCP -LocalPort 7869 -Profile Private
+New-NetFirewallRule -DisplayName "AI UI 7870" -Direction Inbound -Action Allow -Protocol TCP -LocalPort 7870 -Profile Private
+New-NetFirewallRule -DisplayName "AI UI 7871" -Direction Inbound -Action Allow -Protocol TCP -LocalPort 7871 -Profile Private
+
+ملاحظة:
+وأنت خارج البيت، روابط 192.168 لا تعمل. تحتاج Google Drive أو تونل خارجي.
+
+============================================================
+7) إعداد أو إصلاح بيئة Fooocus الافتراضية
+============================================================
+
+بيئة Fooocus:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+
+إذا البيئة موجودة لكن فيها مشكلة، شغل:
+
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\install_fooocus_main_requirements.bat
+
+أو:
+
+cd "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts"
+.\install_fooocus_main_requirements.bat
+
+هذا السكربت:
+- يرفع pip و setuptools و wheel
+- يتأكد من torch / torchvision / torchaudio
+- يثبت متطلبات Fooocus
+- يثبت نسخ متوافقة مثل numpy و pillow و gradio stack
+- يعمل pip check في النهاية
+
+إذا كانت البيئة محذوفة بالكامل، أعد إنشاءها:
+
+cd "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612"
+py -3.10 -m venv ".venv_fooocus"
+".venv_fooocus\Scripts\python.exe" -m pip install --upgrade pip setuptools wheel
+
+ثم شغل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\install_fooocus_main_requirements.bat
+
+بعدها شغل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_fooocus_main_canonical.bat
+
+============================================================
+8) إعداد أو إصلاح بيئة Stable Diffusion WebUI
+============================================================
+
+بيئة Stable Diffusion:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_sdwebui
+
+إذا البيئة موجودة، شغل مباشرة:
+
+powershell -ExecutionPolicy Bypass -File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_stable_diffusion_webui_api_direct.ps1"
+
+إذا البيئة محذوفة بالكامل، أعد إنشاءها:
+
+cd "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612"
+py -3.10 -m venv ".venv_sdwebui"
+".venv_sdwebui\Scripts\python.exe" -m pip install --upgrade pip setuptools wheel
+
+ثم من داخل مجلد WebUI:
+
+cd "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master"
+"D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_sdwebui\Scripts\python.exe" -m pip install --upgrade pip setuptools wheel
+
+بعدها شغل:
+powershell -ExecutionPolicy Bypass -File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\run_stable_diffusion_webui_api_direct.ps1"
+
+ملاحظة مهمة:
+Stable Diffusion WebUI قد يحتاج تنزيلات إضافية أول مرة.
+إذا فشل بسبب clip أو pkg_resources، ثبت:
+
+"D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_sdwebui\Scripts\python.exe" -m pip install --upgrade pip setuptools wheel
+
+ثم أعد تشغيل السكربت.
+
+============================================================
+9) فحص البيئة
+============================================================
+
+شغل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts\check_python_environment.bat
+
+أو:
+
+cd "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\04_run_scripts"
+.\check_python_environment.bat
+
+هذا يفيدك تعرف هل Python والبيئات الأساسية موجودة.
+
+============================================================
+10) الملفات المهمة للمراجعة
+============================================================
+
+خريطة التشغيل والمسارات:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\FULL_PATHS_AND_RUN_COMMANDS.md
+
+شرح عربي سابق:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\README_AR_run_and_structure.md
+
+حالة الجاهزية:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\production_readiness_status.txt
+
+جرد الملفات بدون البيئات:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\ALL_FULL_PATHS_WITHOUT_VENV.txt
+
+دفعات الجرد الثمانية:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\ALL_FULL_PATHS_WITHOUT_VENV_8_BATCHES
+
+============================================================
+11) القرار العملي
+============================================================
+
+للإنتاج اليومي:
+استخدم Fooocus الأساسي على port 7869.
+
+لنسخة احتياطية أو مقارنة:
+استخدم Fooocus entry_with_update على port 7871.
+
+للـ API أو أدوات Stable Diffusion:
+استخدم Stable Diffusion WebUI على port 7870.
+
+لا تحذف البيئات الافتراضية إلا إذا تعرف أنك ستعيد بناءها.
+إذا أردت نقل النظام، انقل المجلد الرئيسي كامل:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612
+
+لكن لا تنقل مجلدات منفردة فقط، لأن السكربتات تعتمد على ترتيب المجلدات الحالي.

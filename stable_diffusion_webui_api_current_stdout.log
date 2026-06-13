@@ -1,0 +1,16 @@
+Running Stable Diffusion WebUI API from: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master
+venv "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_sdwebui\Scripts\Python.exe"
+M	ldm/data/__init__.py
+M	ldm/models/diffusion/ddpm.py
+M	ldm/modules/attention.py
+Your branch is up to date with 'origin/main'.
+Python 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)]
+Version: 1.10.1
+Commit hash: <none>
+Fetching updates for Stable Diffusion...
+Checking out commit for Stable Diffusion with hash: main...
+Launching Web UI with arguments: --skip-install --skip-version-check --skip-torch-cuda-test --medvram-sdxl --no-half --no-half-vae --precision full --api --port 7870
+no module 'xformers'. Processing without...
+no module 'xformers'. Processing without...
+Loading weights [aeb7e9e689] from D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\models\Stable-diffusion\juggernautXL_v8Rundiffusion.safetensors
+Press any key to continue . . . 

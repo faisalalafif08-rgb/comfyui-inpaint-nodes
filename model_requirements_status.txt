@@ -1,0 +1,21 @@
+MODEL REQUIREMENTS STATUS
+=========================
+
+Fooocus main checkpoints:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\models\checkpoints
+Current status: placeholder only. Put .safetensors or .ckpt here.
+
+Fooocus LoRA:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\models\loras
+Current status: placeholder only. Put LoRA files here if needed.
+
+Stable Diffusion WebUI checkpoints:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\models\Stable-diffusion
+Current status: placeholder only. Put .safetensors or .ckpt here.
+
+Stable Diffusion VAE:
+D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\02_stable_diffusion_webui\stable-diffusion-webui-master\stable-diffusion-webui-master\models\VAE
+Current status: placeholder only. Put VAE files here if needed.
+
+Production note:
+Code and launchers are organized. Full image generation requires at least one real checkpoint model.

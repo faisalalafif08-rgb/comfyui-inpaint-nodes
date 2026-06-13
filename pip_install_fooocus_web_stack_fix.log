@@ -1,0 +1,113 @@
+START 2026-06-12T09:47:33
+Collecting fastapi==0.103.2
+  Downloading fastapi-0.103.2-py3-none-any.whl.metadata (24 kB)
+Collecting starlette==0.27.0
+  Downloading starlette-0.27.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting pydantic==1.10.15
+  Downloading pydantic-1.10.15-cp310-cp310-win_amd64.whl.metadata (152 kB)
+Collecting uvicorn==0.23.2
+  Downloading uvicorn-0.23.2-py3-none-any.whl.metadata (6.2 kB)
+Collecting jinja2==3.1.2
+  Downloading Jinja2-3.1.2-py3-none-any.whl.metadata (3.5 kB)
+Collecting python-multipart==0.0.6
+  Downloading python_multipart-0.0.6-py3-none-any.whl.metadata (2.5 kB)
+Collecting anyio==3.7.1
+  Downloading anyio-3.7.1-py3-none-any.whl.metadata (4.7 kB)
+Collecting click==8.1.7
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting h11==0.14.0
+  Downloading h11-0.14.0-py3-none-any.whl.metadata (8.2 kB)
+Collecting idna==3.6
+  Downloading idna-3.6-py3-none-any.whl.metadata (9.9 kB)
+Collecting exceptiongroup==1.2.0
+  Downloading exceptiongroup-1.2.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting typing-extensions>=4.5.0 (from fastapi==0.103.2)
+  Using cached typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting sniffio>=1.1 (from anyio==3.7.1)
+  Using cached sniffio-1.3.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting MarkupSafe>=2.0 (from jinja2==3.1.2)
+  Using cached markupsafe-3.0.3-cp310-cp310-win_amd64.whl.metadata (2.8 kB)
+Collecting colorama (from click==8.1.7)
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Downloading fastapi-0.103.2-py3-none-any.whl (66 kB)
+Downloading starlette-0.27.0-py3-none-any.whl (66 kB)
+Downloading pydantic-1.10.15-cp310-cp310-win_amd64.whl (2.1 MB)
+Downloading anyio-3.7.1-py3-none-any.whl (80 kB)
+Downloading uvicorn-0.23.2-py3-none-any.whl (59 kB)
+Downloading Jinja2-3.1.2-py3-none-any.whl (133 kB)
+Downloading python_multipart-0.0.6-py3-none-any.whl (45 kB)
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+Downloading h11-0.14.0-py3-none-any.whl (58 kB)
+Downloading idna-3.6-py3-none-any.whl (61 kB)
+Downloading exceptiongroup-1.2.0-py3-none-any.whl (16 kB)
+Using cached markupsafe-3.0.3-cp310-cp310-win_amd64.whl (15 kB)
+Using cached sniffio-1.3.1-py3-none-any.whl (10 kB)
+Using cached typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Installing collected packages: typing-extensions, sniffio, python-multipart, MarkupSafe, idna, h11, exceptiongroup, colorama, pydantic, jinja2, click, anyio, uvicorn, starlette, fastapi
+  Attempting uninstall: typing-extensions
+    Found existing installation: typing_extensions 4.15.0
+    Not uninstalling typing-extensions at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'typing_extensions'. No files were found to uninstall.
+  Attempting uninstall: sniffio
+    Found existing installation: sniffio 1.3.1
+    Uninstalling sniffio-1.3.1:
+      Successfully uninstalled sniffio-1.3.1
+  Attempting uninstall: python-multipart
+    Found existing installation: python-multipart 0.0.27
+    Not uninstalling python-multipart at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'python-multipart'. No files were found to uninstall.
+  Attempting uninstall: MarkupSafe
+    Found existing installation: MarkupSafe 2.1.5
+    Uninstalling MarkupSafe-2.1.5:
+      Successfully uninstalled MarkupSafe-2.1.5
+  Attempting uninstall: idna
+    Found existing installation: idna 3.13
+    Not uninstalling idna at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'idna'. No files were found to uninstall.
+  Attempting uninstall: h11
+    Found existing installation: h11 0.16.0
+    Not uninstalling h11 at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'h11'. No files were found to uninstall.
+  Attempting uninstall: exceptiongroup
+    Found existing installation: exceptiongroup 1.3.1
+    Not uninstalling exceptiongroup at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'exceptiongroup'. No files were found to uninstall.
+  Attempting uninstall: colorama
+    Found existing installation: colorama 0.4.6
+    Not uninstalling colorama at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'colorama'. No files were found to uninstall.
+  Attempting uninstall: pydantic
+    Found existing installation: pydantic 2.13.3
+    Not uninstalling pydantic at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'pydantic'. No files were found to uninstall.
+  Attempting uninstall: jinja2
+    Found existing installation: Jinja2 3.1.6
+    Not uninstalling jinja2 at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'Jinja2'. No files were found to uninstall.
+  Attempting uninstall: click
+    Found existing installation: click 8.3.3
+    Not uninstalling click at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'click'. No files were found to uninstall.
+  Attempting uninstall: anyio
+    Found existing installation: anyio 4.13.0
+    Not uninstalling anyio at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'anyio'. No files were found to uninstall.
+  Attempting uninstall: uvicorn
+    Found existing installation: uvicorn 0.46.0
+    Not uninstalling uvicorn at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'uvicorn'. No files were found to uninstall.
+  Attempting uninstall: starlette
+    Found existing installation: starlette 1.0.0
+    Not uninstalling starlette at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'starlette'. No files were found to uninstall.
+  Attempting uninstall: fastapi
+    Found existing installation: fastapi 0.136.1
+    Not uninstalling fastapi at c:\users\faisa\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus
+    Can't uninstall 'fastapi'. No files were found to uninstall.
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+gradio 3.41.2 requires markupsafe~=2.0, but you have markupsafe 3.0.3 which is incompatible.
+httpcore 1.0.9 requires h11>=0.16, but you have h11 0.14.0 which is incompatible.
+Successfully installed MarkupSafe-3.0.3 anyio-3.7.1 click-8.1.7 colorama-0.4.6 exceptiongroup-1.2.0 fastapi-0.103.2 h11-0.14.0 idna-3.6 jinja2-3.1.2 pydantic-1.10.15 python-multipart-0.0.6 sniffio-1.3.1 starlette-0.27.0 typing-extensions-4.15.0 uvicorn-0.23.2
+EXIT=0
+END 2026-06-12T09:48:02
