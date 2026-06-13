@@ -1,0 +1,78 @@
+[run_no_update] importing launch
+[System ARGV] ['run_no_update.py', '--disable-in-browser', '--disable-analytics', '--disable-preset-download', '--port', '7869', '--all-in-fp32', '--always-low-vram', '--vae-in-cpu', '--attention-split']
+Python 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)]
+Fooocus version: 2.5.5
+[Cleanup] Attempting to delete content of temp dir C:\Users\faisa\AppData\Local\Temp\fooocus
+[Cleanup] Cleanup successful
+Skipped model download.
+Total VRAM 6144 MB, total RAM 16218 MB
+Forcing FP32, if this improves things please report it.
+Set vram state to: LOW_VRAM
+Always offload VRAM
+Device: cuda:0 NVIDIA GeForce GTX 1060 6GB : native
+VAE dtype: torch.float32
+Using split optimization for cross attention
+Refiner unloaded.
+Running on local URL:  http://127.0.0.1:7869
+
+To create a public link, set `share=True` in `launch()`.
+model_type EPS
+UNet ADM Dimension 2816
+Using split attention in VAE
+Working with z of shape (1, 4, 32, 32) = 4096 dimensions.
+Using split attention in VAE
+extra {'cond_stage_model.clip_l.text_projection', 'cond_stage_model.clip_l.logit_scale'}
+left over keys: dict_keys(['cond_stage_model.clip_l.transformer.text_model.embeddings.position_ids'])
+Base model loaded: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\models\checkpoints\juggernautXL_v8Rundiffusion.safetensors
+VAE loaded: None
+Request to load LoRAs [('sd_xl_offset_example-lora_1.0.safetensors', 0.1)] for model [D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\models\checkpoints\juggernautXL_v8Rundiffusion.safetensors].
+Lora file not found: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\models\loras\sd_xl_offset_example-lora_1.0.safetensors
+Fooocus V2 Expansion: Vocab with 642 words.
+Fooocus Expansion engine loaded for cpu, use_fp16 = False.
+Requested to load SDXLClipModel
+Requested to load GPT2LMHeadModel
+Loading 2 new models
+Started worker with PID 8188
+App started successful. Use the app with http://127.0.0.1:7869/ or 127.0.0.1:7869
+[Parameters] Adaptive CFG = 7.0
+[Parameters] CLIP Skip = 2
+[Parameters] Sharpness = 2.0
+[Parameters] ControlNet Softness = 0.25
+[Parameters] ADM Scale = 1.5 : 0.8 : 0.3
+[Parameters] Seed = 12345
+[Parameters] CFG = 4.0
+[Fooocus] Loading control models ...
+[Parameters] Sampler = dpmpp_2m_sde_gpu - karras
+[Parameters] Steps = 15 - 15
+[Fooocus] Initializing ...
+[Fooocus] Loading models ...
+Refiner unloaded.
+Request to load LoRAs [] for model [D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\models\checkpoints\juggernautXL_v8Rundiffusion.safetensors].
+Requested to load SDXLClipModel
+Loading 1 new model
+unload clone 1
+[Fooocus Model Management] Moving model(s) has taken 0.54 seconds
+[Fooocus] Processing prompts ...
+[Fooocus] Preparing Fooocus text #1 ...
+[Prompt Expansion] a realistic red apple on a wooden table, studio lighting, sharp focus, silent, professional, detailed, elegant, best, direct, bright colors, dynamic background, beautiful, cinematic, stunning, highly intricate, light, successful, winning, romantic, real, full color, artistic, complex, rich, hopeful, colorful, pure, inspired, glowing, deep, vibrant
+[Fooocus] Encoding positive #1 ...
+[Fooocus] Encoding negative #1 ...
+[Parameters] Denoising Strength = 1.0
+[Parameters] Initial Latent shape: Image Space (512, 512)
+Preparation time: 19.34 seconds
+Using karras scheduler.
+[Fooocus] Preparing task 1/1 ...
+[Sampler] refiner_swap_method = joint
+[Sampler] sigma_min = 0.0291671771556139, sigma_max = 14.614643096923828
+Requested to load SDXL
+Loading 1 new model
+loading in lowvram mode 3205.083758354187
+[Fooocus Model Management] Moving model(s) has taken 50.56 seconds
+Requested to load AutoencoderKL
+Loading 1 new model
+[Fooocus] Saving image 1/1 to system ...
+Image generated with private log at: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\outputs\2026-06-12\log.html
+Generating and saving time: 315.24 seconds
+[Enhance] Skipping, preconditions aren't met
+Processing time (total): 315.24 seconds
+Total time: 565.69 seconds

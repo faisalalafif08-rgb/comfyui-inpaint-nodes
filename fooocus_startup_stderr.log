@@ -1,0 +1,348 @@
+  0%|          | 0.00/209k [00:00<?, ?B/s]100%|██████████| 209k/209k [00:00<00:00, 3.52MB/s]
+  0%|          | 0.00/209k [00:00<?, ?B/s]100%|██████████| 209k/209k [00:00<00:00, 4.19MB/s]
+  0%|          | 0.00/335M [00:00<?, ?B/s]  0%|          | 640k/335M [00:00<00:53, 6.50MB/s]  0%|          | 1.25M/335M [00:00<01:01, 5.71MB/s]  1%|          | 2.12M/335M [00:00<00:51, 6.71MB/s]  1%|          | 2.88M/335M [00:00<00:49, 7.07MB/s]  1%|          | 3.75M/335M [00:00<00:44, 7.75MB/s]  1%|▏         | 4.75M/335M [00:00<00:42, 8.18MB/s]  2%|▏         | 5.88M/335M [00:00<00:37, 9.16MB/s]  2%|▏         | 7.00M/335M [00:00<00:36, 9.34MB/s]  2%|▏         | 8.12M/335M [00:00<00:34, 10.0MB/s]  3%|▎         | 9.38M/335M [00:01<00:31, 10.7MB/s]  3%|▎         | 10.5M/335M [00:01<00:33, 10.1MB/s]  3%|▎         | 11.5M/335M [00:01<00:34, 9.77MB/s]  4%|▍         | 12.8M/335M [00:01<00:32, 10.5MB/s]  4%|▍         | 14.1M/335M [00:01<00:30, 11.2MB/s]  5%|▍         | 15.2M/335M [00:01<00:31, 10.5MB/s]  5%|▍         | 16.4M/335M [00:04<04:04, 1.37MB/s]  5%|▌         | 17.9M/335M [00:04<02:46, 2.00MB/s]  6%|▌         | 19.4M/335M [00:04<01:56, 2.83MB/s]  6%|▋         | 21.1M/335M [00:04<01:21, 4.06MB/s]  7%|▋         | 22.5M/335M [00:04<01:04, 5.11MB/s]  7%|▋         | 24.0M/335M [00:04<00:50, 6.45MB/s]  8%|▊         | 25.5M/335M [00:05<00:41, 7.86MB/s]  8%|▊         | 27.5M/335M [00:05<00:31, 10.1MB/s]  9%|▊         | 29.1M/335M [00:05<00:29, 10.7MB/s]  9%|▉         | 30.6M/335M [00:05<00:28, 11.1MB/s] 10%|▉         | 32.0M/335M [00:05<00:26, 11.8MB/s] 10%|▉         | 33.4M/335M [00:05<00:26, 12.1MB/s] 10%|█         | 35.1M/335M [00:05<00:24, 12.8MB/s] 11%|█         | 36.5M/335M [00:05<00:23, 13.1MB/s] 11%|█▏        | 37.9M/335M [00:05<00:24, 12.7MB/s] 12%|█▏        | 39.2M/335M [00:06<00:23, 13.1MB/s] 12%|█▏        | 40.6M/335M [00:06<00:25, 12.2MB/s] 12%|█▏        | 41.9M/335M [00:06<00:25, 11.9MB/s] 13%|█▎        | 43.1M/335M [00:06<00:26, 11.6MB/s] 13%|█▎        | 44.5M/335M [00:06<00:24, 12.3MB/s] 14%|█▎        | 45.8M/335M [00:06<00:24, 12.3MB/s] 14%|█▍        | 47.0M/335M [00:06<00:26, 11.5MB/s] 14%|█▍        | 48.1M/335M [00:06<00:26, 11.3MB/s] 15%|█▍        | 49.5M/335M [00:07<00:25, 11.6MB/s] 15%|█▌        | 50.6M/335M [00:07<00:28, 10.6MB/s] 15%|█▌        | 51.9M/335M [00:07<00:26, 11.1MB/s] 16%|█▌        | 53.0M/335M [00:07<00:29, 10.0MB/s] 16%|█▌        | 54.0M/335M [00:07<00:31, 9.26MB/s] 17%|█▋        | 55.4M/335M [00:07<00:29, 9.96MB/s] 17%|█▋        | 56.5M/335M [00:07<00:28, 10.3MB/s] 17%|█▋        | 57.6M/335M [00:07<00:29, 9.90MB/s] 17%|█▋        | 58.6M/335M [00:08<00:30, 9.63MB/s] 18%|█▊        | 59.6M/335M [00:08<00:33, 8.66MB/s] 18%|█▊        | 60.9M/335M [00:08<00:29, 9.66MB/s] 18%|█▊        | 61.9M/335M [00:08<00:32, 8.75MB/s] 19%|█▉        | 62.9M/335M [00:08<00:35, 7.99MB/s] 19%|█▉        | 64.2M/335M [00:08<00:30, 9.39MB/s] 19%|█▉        | 65.2M/335M [00:08<00:33, 8.49MB/s] 20%|█▉        | 66.5M/335M [00:08<00:30, 9.36MB/s] 20%|██        | 67.5M/335M [00:09<00:32, 8.72MB/s] 21%|██        | 68.8M/335M [00:09<00:28, 9.67MB/s] 21%|██        | 69.8M/335M [00:09<00:30, 9.22MB/s] 21%|██        | 70.9M/335M [00:09<00:29, 9.40MB/s] 21%|██▏       | 72.0M/335M [00:09<00:27, 9.87MB/s] 22%|██▏       | 73.4M/335M [00:09<00:25, 10.6MB/s] 22%|██▏       | 75.0M/335M [00:09<00:26, 10.4MB/s] 23%|██▎       | 76.2M/335M [00:09<00:25, 10.8MB/s] 23%|██▎       | 77.6M/335M [00:10<00:23, 11.6MB/s] 24%|██▎       | 78.9M/335M [00:10<00:22, 11.9MB/s] 24%|██▍       | 80.1M/335M [00:10<00:22, 11.7MB/s] 24%|██▍       | 81.5M/335M [00:10<00:31, 8.37MB/s] 25%|██▍       | 82.5M/335M [00:10<00:31, 8.36MB/s] 25%|██▍       | 83.8M/335M [00:10<00:28, 9.36MB/s] 25%|██▌       | 85.1M/335M [00:10<00:24, 10.5MB/s] 26%|██▌       | 86.2M/335M [00:10<00:25, 10.3MB/s] 26%|██▋       | 88.4M/335M [00:11<00:19, 13.3MB/s] 27%|██▋       | 89.8M/335M [00:11<00:24, 10.6MB/s] 27%|██▋       | 91.1M/335M [00:11<00:24, 10.6MB/s] 28%|██▊       | 92.2M/335M [00:11<00:23, 10.6MB/s] 28%|██▊       | 93.9M/335M [00:11<00:21, 12.0MB/s] 28%|██▊       | 95.2M/335M [00:11<00:20, 12.5MB/s] 29%|██▉       | 96.6M/335M [00:11<00:19, 12.7MB/s] 29%|██▉       | 98.0M/335M [00:11<00:20, 12.1MB/s] 30%|██▉       | 99.6M/335M [00:12<00:18, 13.4MB/s] 30%|███       | 101M/335M [00:12<00:18, 13.5MB/s]  31%|███       | 102M/335M [00:12<00:20, 12.2MB/s] 31%|███       | 104M/335M [00:12<00:18, 13.4MB/s] 32%|███▏      | 106M/335M [00:12<00:19, 12.6MB/s] 32%|███▏      | 108M/335M [00:12<00:17, 14.0MB/s] 32%|███▏      | 109M/335M [00:12<00:17, 13.4MB/s] 33%|███▎      | 110M/335M [00:12<00:19, 12.3MB/s] 33%|███▎      | 112M/335M [00:13<00:18, 12.4MB/s] 34%|███▎      | 113M/335M [00:13<00:18, 12.4MB/s] 34%|███▍      | 114M/335M [00:13<00:21, 11.0MB/s] 34%|███▍      | 115M/335M [00:13<00:21, 10.6MB/s] 35%|███▍      | 116M/335M [00:13<00:22, 10.0MB/s] 35%|███▌      | 118M/335M [00:13<00:20, 11.1MB/s] 35%|███▌      | 119M/335M [00:13<00:22, 10.1MB/s] 36%|███▌      | 120M/335M [00:13<00:19, 11.3MB/s] 36%|███▋      | 122M/335M [00:14<00:19, 11.3MB/s] 37%|███▋      | 123M/335M [00:14<00:19, 11.4MB/s] 37%|███▋      | 124M/335M [00:14<00:18, 11.8MB/s] 37%|███▋      | 125M/335M [00:14<00:18, 11.7MB/s] 38%|███▊      | 126M/335M [00:14<00:18, 11.7MB/s] 38%|███▊      | 128M/335M [00:14<00:16, 12.8MB/s] 39%|███▊      | 129M/335M [00:14<00:18, 11.6MB/s] 39%|███▉      | 130M/335M [00:14<00:19, 11.1MB/s] 39%|███▉      | 132M/335M [00:14<00:18, 11.4MB/s] 40%|███▉      | 133M/335M [00:15<00:18, 11.5MB/s] 40%|███▉      | 134M/335M [00:15<00:19, 11.1MB/s] 40%|████      | 135M/335M [00:15<00:18, 11.3MB/s] 41%|████      | 137M/335M [00:15<00:15, 13.2MB/s] 41%|████      | 138M/335M [00:15<00:16, 12.5MB/s] 42%|████▏     | 140M/335M [00:15<00:16, 12.4MB/s] 42%|████▏     | 141M/335M [00:15<00:15, 12.8MB/s] 43%|████▎     | 143M/335M [00:15<00:15, 12.6MB/s] 43%|████▎     | 144M/335M [00:15<00:15, 12.6MB/s] 43%|████▎     | 145M/335M [00:16<00:16, 12.2MB/s] 44%|████▍     | 147M/335M [00:16<00:15, 12.9MB/s] 44%|████▍     | 148M/335M [00:16<00:14, 13.4MB/s] 45%|████▍     | 150M/335M [00:16<00:13, 14.3MB/s] 45%|████▌     | 152M/335M [00:16<00:12, 15.2MB/s] 46%|████▌     | 154M/335M [00:16<00:12, 15.7MB/s] 46%|████▋     | 155M/335M [00:16<00:12, 15.2MB/s] 47%|████▋     | 157M/335M [00:16<00:12, 15.1MB/s] 47%|████▋     | 158M/335M [00:17<00:12, 15.2MB/s] 48%|████▊     | 160M/335M [00:17<00:13, 13.1MB/s] 48%|████▊     | 162M/335M [00:17<00:12, 14.2MB/s] 49%|████▊     | 163M/335M [00:17<00:14, 12.8MB/s] 49%|████▉     | 164M/335M [00:17<00:15, 11.9MB/s] 49%|████▉     | 166M/335M [00:17<00:16, 11.0MB/s] 50%|█████     | 168M/335M [00:17<00:13, 12.9MB/s] 50%|█████     | 169M/335M [00:17<00:13, 13.3MB/s] 51%|█████     | 170M/335M [00:18<00:13, 12.8MB/s] 51%|█████▏    | 172M/335M [00:18<00:12, 13.9MB/s] 52%|█████▏    | 173M/335M [00:18<00:12, 13.6MB/s] 52%|█████▏    | 175M/335M [00:18<00:12, 13.6MB/s] 53%|█████▎    | 176M/335M [00:18<00:12, 13.5MB/s] 53%|█████▎    | 178M/335M [00:18<00:12, 13.5MB/s] 54%|█████▎    | 180M/335M [00:18<00:11, 14.8MB/s] 54%|█████▍    | 182M/335M [00:18<00:11, 14.6MB/s] 55%|█████▍    | 183M/335M [00:18<00:11, 14.3MB/s] 55%|█████▌    | 185M/335M [00:19<00:10, 15.3MB/s] 56%|█████▌    | 186M/335M [00:19<00:12, 12.3MB/s] 56%|█████▌    | 188M/335M [00:19<00:10, 14.1MB/s] 57%|█████▋    | 190M/335M [00:19<00:10, 14.3MB/s] 57%|█████▋    | 191M/335M [00:19<00:10, 14.8MB/s] 58%|█████▊    | 193M/335M [00:19<00:09, 15.3MB/s] 58%|█████▊    | 195M/335M [00:19<00:09, 15.9MB/s] 59%|█████▊    | 196M/335M [00:19<00:09, 14.9MB/s] 59%|█████▉    | 198M/335M [00:20<00:10, 13.3MB/s] 59%|█████▉    | 199M/335M [00:20<00:10, 13.0MB/s] 60%|█████▉    | 201M/335M [00:20<00:10, 13.8MB/s] 60%|██████    | 202M/335M [00:20<00:10, 13.2MB/s] 61%|██████    | 204M/335M [00:20<00:10, 13.3MB/s] 61%|██████▏   | 205M/335M [00:20<00:10, 12.9MB/s] 62%|██████▏   | 207M/335M [00:20<00:10, 12.4MB/s] 62%|██████▏   | 208M/335M [00:21<00:17, 7.70MB/s] 62%|██████▏   | 209M/335M [00:21<00:14, 8.90MB/s] 63%|██████▎   | 210M/335M [00:21<00:13, 9.72MB/s] 63%|██████▎   | 212M/335M [00:21<00:11, 11.0MB/s] 64%|██████▍   | 214M/335M [00:21<00:10, 11.9MB/s] 64%|██████▍   | 216M/335M [00:21<00:09, 13.2MB/s] 65%|██████▍   | 217M/335M [00:21<00:08, 14.1MB/s] 65%|██████▌   | 219M/335M [00:21<00:09, 13.0MB/s] 66%|██████▌   | 220M/335M [00:22<00:09, 12.6MB/s] 66%|██████▌   | 221M/335M [00:22<00:09, 13.0MB/s] 66%|██████▋   | 223M/335M [00:22<00:09, 11.9MB/s] 67%|██████▋   | 224M/335M [00:22<00:09, 12.4MB/s] 67%|██████▋   | 225M/335M [00:22<00:09, 12.3MB/s] 68%|██████▊   | 227M/335M [00:22<00:09, 11.7MB/s] 68%|██████▊   | 228M/335M [00:22<00:08, 12.5MB/s] 68%|██████▊   | 229M/335M [00:22<00:09, 11.6MB/s] 69%|██████▉   | 231M/335M [00:23<00:09, 11.9MB/s] 69%|██████▉   | 232M/335M [00:23<00:09, 11.6MB/s] 70%|██████▉   | 233M/335M [00:23<00:10, 10.2MB/s] 70%|███████   | 235M/335M [00:23<00:09, 11.5MB/s] 71%|███████   | 236M/335M [00:23<00:08, 12.5MB/s] 71%|███████   | 238M/335M [00:23<00:07, 13.6MB/s] 71%|███████▏  | 240M/335M [00:23<00:06, 14.6MB/s] 72%|███████▏  | 241M/335M [00:23<00:07, 13.1MB/s] 72%|███████▏  | 242M/335M [00:23<00:07, 12.7MB/s] 73%|███████▎  | 244M/335M [00:24<00:06, 14.3MB/s] 73%|███████▎  | 246M/335M [00:24<00:06, 14.2MB/s] 74%|███████▍  | 247M/335M [00:24<00:06, 13.6MB/s] 74%|███████▍  | 249M/335M [00:24<00:06, 15.0MB/s] 75%|███████▍  | 251M/335M [00:24<00:06, 13.6MB/s] 75%|███████▌  | 252M/335M [00:24<00:06, 12.9MB/s] 76%|███████▌  | 254M/335M [00:24<00:06, 13.2MB/s] 76%|███████▋  | 256M/335M [00:24<00:05, 14.0MB/s] 77%|███████▋  | 257M/335M [00:25<00:06, 12.7MB/s] 77%|███████▋  | 258M/335M [00:25<00:06, 13.4MB/s] 78%|███████▊  | 260M/335M [00:25<00:06, 12.9MB/s] 78%|███████▊  | 261M/335M [00:25<00:05, 13.3MB/s] 78%|███████▊  | 262M/335M [00:25<00:05, 13.3MB/s] 79%|███████▉  | 264M/335M [00:25<00:05, 14.6MB/s] 79%|███████▉  | 266M/335M [00:25<00:05, 13.9MB/s] 80%|███████▉  | 267M/335M [00:25<00:05, 12.7MB/s] 80%|████████  | 268M/335M [00:25<00:05, 12.5MB/s] 80%|████████  | 270M/335M [00:26<00:05, 12.4MB/s] 81%|████████  | 271M/335M [00:26<00:06, 11.2MB/s] 81%|████████▏ | 273M/335M [00:26<00:05, 12.9MB/s] 82%|████████▏ | 274M/335M [00:26<00:04, 12.8MB/s] 82%|████████▏ | 275M/335M [00:26<00:05, 12.0MB/s] 83%|████████▎ | 277M/335M [00:26<00:05, 12.2MB/s] 83%|████████▎ | 278M/335M [00:26<00:04, 12.2MB/s] 83%|████████▎ | 279M/335M [00:26<00:05, 11.6MB/s] 84%|████████▎ | 280M/335M [00:27<00:05, 9.77MB/s] 84%|████████▍ | 282M/335M [00:27<00:04, 11.7MB/s] 85%|████████▍ | 283M/335M [00:27<00:04, 11.2MB/s] 85%|████████▍ | 284M/335M [00:27<00:04, 11.4MB/s] 85%|████████▌ | 286M/335M [00:27<00:04, 12.2MB/s] 86%|████████▌ | 287M/335M [00:27<00:04, 11.4MB/s] 86%|████████▌ | 289M/335M [00:27<00:04, 11.3MB/s] 86%|████████▋ | 290M/335M [00:27<00:04, 10.9MB/s] 87%|████████▋ | 291M/335M [00:28<00:04, 11.2MB/s] 87%|████████▋ | 292M/335M [00:28<00:03, 11.3MB/s] 88%|████████▊ | 294M/335M [00:28<00:03, 11.7MB/s] 88%|████████▊ | 295M/335M [00:28<00:03, 11.0MB/s] 88%|████████▊ | 296M/335M [00:28<00:03, 11.8MB/s] 89%|████████▉ | 297M/335M [00:28<00:03, 9.93MB/s] 89%|████████▉ | 299M/335M [00:28<00:03, 10.8MB/s] 90%|████████▉ | 300M/335M [00:28<00:03, 10.8MB/s] 90%|████████▉ | 301M/335M [00:29<00:03, 11.0MB/s] 90%|█████████ | 302M/335M [00:29<00:03, 10.5MB/s] 91%|█████████ | 303M/335M [00:29<00:03, 9.82MB/s] 91%|█████████ | 304M/335M [00:29<00:03, 9.75MB/s] 91%|█████████ | 305M/335M [00:29<00:03, 9.47MB/s] 91%|█████████▏| 306M/335M [00:29<00:03, 9.62MB/s] 92%|█████████▏| 307M/335M [00:29<00:03, 8.70MB/s] 92%|█████████▏| 309M/335M [00:29<00:02, 9.97MB/s] 92%|█████████▏| 310M/335M [00:29<00:02, 9.91MB/s] 93%|█████████▎| 311M/335M [00:30<00:02, 11.0MB/s] 93%|█████████▎| 312M/335M [00:30<00:02, 10.4MB/s] 94%|█████████▎| 314M/335M [00:30<00:02, 11.1MB/s] 94%|█████████▍| 315M/335M [00:30<00:02, 10.5MB/s] 94%|█████████▍| 316M/335M [00:30<00:01, 10.7MB/s] 95%|█████████▍| 317M/335M [00:30<00:01, 10.6MB/s] 95%|█████████▍| 318M/335M [00:30<00:01, 10.7MB/s] 95%|█████████▌| 319M/335M [00:30<00:01, 11.3MB/s] 96%|█████████▌| 320M/335M [00:31<00:01, 10.5MB/s] 96%|█████████▌| 322M/335M [00:31<00:01, 10.2MB/s] 96%|█████████▋| 323M/335M [00:31<00:01, 11.2MB/s] 97%|█████████▋| 324M/335M [00:31<00:00, 12.3MB/s] 97%|█████████▋| 326M/335M [00:31<00:00, 12.1MB/s] 98%|█████████▊| 327M/335M [00:31<00:00, 12.3MB/s] 98%|█████████▊| 328M/335M [00:31<00:00, 11.7MB/s] 98%|█████████▊| 330M/335M [00:31<00:00, 12.4MB/s] 99%|█████████▊| 331M/335M [00:31<00:00, 12.5MB/s] 99%|█████████▉| 332M/335M [00:32<00:00, 12.5MB/s]100%|█████████▉| 334M/335M [00:32<00:00, 12.8MB/s]100%|██████████| 335M/335M [00:32<00:00, 10.9MB/s]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 56, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 120, in app
+    response = await f(request)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio\routes.py", line 282, in main
+    return templates.TemplateResponse(
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\modules\ui_gradio_extensions.py", line 61, in template_response
+    res = GradioTemplateResponseOriginal(*args, **kwargs)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 148, in TemplateResponse
+    template = self.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 115, in get_template
+    return self.env.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 964, in _load_template
+    template = self.cache.get(cache_key)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 477, in get
+    return self[key]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 515, in __getitem__
+    rv = self._mapping[key]
+TypeError: unhashable type: 'dict'
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 56, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 120, in app
+    response = await f(request)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio\routes.py", line 282, in main
+    return templates.TemplateResponse(
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\modules\ui_gradio_extensions.py", line 61, in template_response
+    res = GradioTemplateResponseOriginal(*args, **kwargs)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 148, in TemplateResponse
+    template = self.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 115, in get_template
+    return self.env.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 964, in _load_template
+    template = self.cache.get(cache_key)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 477, in get
+    return self[key]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 515, in __getitem__
+    rv = self._mapping[key]
+TypeError: unhashable type: 'dict'
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 56, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 120, in app
+    response = await f(request)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio\routes.py", line 282, in main
+    return templates.TemplateResponse(
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\modules\ui_gradio_extensions.py", line 61, in template_response
+    res = GradioTemplateResponseOriginal(*args, **kwargs)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 148, in TemplateResponse
+    template = self.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 115, in get_template
+    return self.env.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 964, in _load_template
+    template = self.cache.get(cache_key)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 477, in get
+    return self[key]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 515, in __getitem__
+    rv = self._mapping[key]
+TypeError: unhashable type: 'dict'
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 56, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 120, in app
+    response = await f(request)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio\routes.py", line 282, in main
+    return templates.TemplateResponse(
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\modules\ui_gradio_extensions.py", line 61, in template_response
+    res = GradioTemplateResponseOriginal(*args, **kwargs)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 148, in TemplateResponse
+    template = self.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 115, in get_template
+    return self.env.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 964, in _load_template
+    template = self.cache.get(cache_key)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 477, in get
+    return self[key]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 515, in __getitem__
+    rv = self._mapping[key]
+TypeError: unhashable type: 'dict'
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 56, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 120, in app
+    response = await f(request)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio\routes.py", line 282, in main
+    return templates.TemplateResponse(
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\modules\ui_gradio_extensions.py", line 61, in template_response
+    res = GradioTemplateResponseOriginal(*args, **kwargs)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 148, in TemplateResponse
+    template = self.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\templating.py", line 115, in get_template
+    return self.env.get_template(name)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 964, in _load_template
+    template = self.cache.get(cache_key)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 477, in get
+    return self[key]
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 515, in __getitem__
+    rv = self._mapping[key]
+TypeError: unhashable type: 'dict'
+Traceback (most recent call last):
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\entry_with_update.py", line 46, in <module>
+    from launch import *
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\launch.py", line 152, in <module>
+    from webui import *
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\webui.py", line 1120, in <module>
+    shared.gradio_root.launch(
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio\blocks.py", line 1971, in launch
+    raise ValueError(
+ValueError: When localhost is not accessible, a shareable link must be created. Please set share=True or check your proxy settings to allow access to localhost.

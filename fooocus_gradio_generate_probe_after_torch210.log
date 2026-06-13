@@ -1,0 +1,22 @@
+BEFORE_PNG 0
+Loaded as API: http://127.0.0.1:7869/ ✔
+CLIENT_READY
+CALL_FN67_CREATE_TASK
+Traceback (most recent call last):
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\fooocus_gradio_generate_probe.py", line 61, in <module>
+    res67 = client.predict(*payload, fn_index=67)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 291, in predict
+    return self.submit(*args, api_name=api_name, fn_index=fn_index).result()
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 1120, in result
+    return super().result(timeout=timeout)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 792, in _inner
+    data = self.serialize(*data)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 950, in serialize
+    assert len(data) == len(
+AssertionError: Expected 153 arguments, got 154

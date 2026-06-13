@@ -1,0 +1,13 @@
+BEFORE_PNG 5
+Loaded as API: http://127.0.0.1:7869/ ✔
+CLIENT_READY
+ENDPOINT67_USE_WS True
+ENDPOINT68_USE_WS True
+PAYLOAD_LEN 153 CLIENT_PAYLOAD_LEN 152
+CALL_FN67_CREATE_TASK
+FN67_RESULT tuple ()
+CALL_FN68_RUN_TASK
+FN68_JOB_SUBMITTED
+FN68_RESULT_READ_ERROR AttributeError AttributeError("'dict' object has no attribute 'replace'")
+GENERATED_FILE D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\Fooocus-main_canonical\Fooocus-main\outputs\2026-06-12\2026-06-12_12-44-19_8093.png
+GENERATED_SIZE 233363

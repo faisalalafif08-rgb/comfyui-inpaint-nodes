@@ -1,0 +1,49 @@
+Running Fooocus without auto-update.
+[System ARGV] ['run_no_update.py', '--disable-in-browser', '--disable-analytics', '--disable-preset-download', '--port', '7871', '--all-in-fp32', '--always-low-vram', '--vae-in-cpu', '--attention-split']
+Python 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)]
+Fooocus version: 2.5.5
+Failed to load config key: {"path_checkpoints": ["C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\checkpoints"]} is invalid or does not exist; will use {"path_checkpoints": ["../models/checkpoints/"]} instead.
+Failed to load config key: {"path_loras": ["C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\loras"]} is invalid or does not exist; will use {"path_loras": ["../models/loras/"]} instead.
+Failed to load config key: {"path_embeddings": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\embeddings"} is invalid or does not exist; will use {"path_embeddings": "../models/embeddings/"} instead.
+Failed to load config key: {"path_vae_approx": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\vae_approx"} is invalid or does not exist; will use {"path_vae_approx": "../models/vae_approx/"} instead.
+Failed to load config key: {"path_vae": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\vae"} is invalid or does not exist; will use {"path_vae": "../models/vae/"} instead.
+Failed to load config key: {"path_upscale_models": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\upscale_models"} is invalid or does not exist; will use {"path_upscale_models": "../models/upscale_models/"} instead.
+Failed to load config key: {"path_inpaint": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\inpaint"} is invalid or does not exist; will use {"path_inpaint": "../models/inpaint/"} instead.
+Failed to load config key: {"path_controlnet": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\controlnet"} is invalid or does not exist; will use {"path_controlnet": "../models/controlnet/"} instead.
+Failed to load config key: {"path_clip_vision": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\clip_vision"} is invalid or does not exist; will use {"path_clip_vision": "../models/clip_vision/"} instead.
+Failed to load config key: {"path_fooocus_expansion": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\prompt_expansion\\fooocus_expansion"} is invalid or does not exist; will use {"path_fooocus_expansion": "../models/prompt_expansion/fooocus_expansion"} instead.
+Failed to load config key: {"path_wildcards": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\wildcards"} is invalid or does not exist; will use {"path_wildcards": "../wildcards/"} instead.
+Failed to load config key: {"path_safety_checker": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\safety_checker"} is invalid or does not exist; will use {"path_safety_checker": "../models/safety_checker/"} instead.
+Failed to load config key: {"path_sam": "C:\\ALZ3eeeM_PRO\\Fooocus_win64_2-5-0\\Fooocus\\models\\sam"} is invalid or does not exist; will use {"path_sam": "../models/sam/"} instead.
+[Cleanup] Attempting to delete content of temp dir C:\Users\faisa\AppData\Local\Temp\fooocus
+[Cleanup] Cleanup successful
+Skipped model download.
+Total VRAM 6144 MB, total RAM 16218 MB
+Forcing FP32, if this improves things please report it.
+Set vram state to: LOW_VRAM
+Always offload VRAM
+Device: cuda:0 NVIDIA GeForce GTX 1060 6GB : native
+VAE dtype: torch.float32
+Using split optimization for cross attention
+Refiner unloaded.
+Running on local URL:  http://127.0.0.1:7871
+
+To create a public link, set `share=True` in `launch()`.
+model_type EPS
+UNet ADM Dimension 2816
+Using split attention in VAE
+Working with z of shape (1, 4, 32, 32) = 4096 dimensions.
+Using split attention in VAE
+extra {'cond_stage_model.clip_l.logit_scale', 'cond_stage_model.clip_l.text_projection'}
+left over keys: dict_keys(['cond_stage_model.clip_l.transformer.text_model.embeddings.position_ids'])
+Base model loaded: D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\entry_with_update_full\models\checkpoints\juggernautXL_v8Rundiffusion.safetensors
+VAE loaded: None
+Request to load LoRAs [('sd_xl_offset_example-lora_1.0.safetensors', 0.1)] for model [D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\entry_with_update_full\models\checkpoints\juggernautXL_v8Rundiffusion.safetensors].
+Loaded LoRA [D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\entry_with_update_full\models\loras\sd_xl_offset_example-lora_1.0.safetensors] for UNet [D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\01_fooocus\entry_with_update_full\models\checkpoints\juggernautXL_v8Rundiffusion.safetensors] with 788 keys at weight 0.1.
+Fooocus V2 Expansion: Vocab with 642 words.
+Fooocus Expansion engine loaded for cpu, use_fp16 = False.
+Requested to load SDXLClipModel
+Requested to load GPT2LMHeadModel
+Loading 2 new models
+Started worker with PID 87708
+App started successful. Use the app with http://127.0.0.1:7871/ or 127.0.0.1:7871

@@ -1,0 +1,13 @@
+[System ARGV] ['run_no_update.py', '--disable-in-browser', '--disable-analytics', '--disable-preset-download', '--port', '7869']
+Python 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)]
+Fooocus version: 2.5.5
+[Cleanup] Attempting to delete content of temp dir C:\Users\faisa\AppData\Local\Temp\fooocus
+[Cleanup] Cleanup successful
+Skipped model download.
+Total VRAM 6144 MB, total RAM 16218 MB
+Set vram state to: NORMAL_VRAM
+Always offload VRAM
+Device: cuda:0 NVIDIA GeForce GTX 1060 6GB : native
+VAE dtype: torch.float32
+Using pytorch cross attention
+Refiner unloaded.

@@ -1,0 +1,10 @@
+PAYLOAD_LEN 153
+BEFORE_PNG 0
+HTTP_CLIENT_READY
+CALL_FN67_CREATE_TASK
+FN67_STATUS 200
+FN67_TEXT {"data":[null],"is_generating":false,"duration":0.0032150745391845703,"average_duration":0.0032150745391845703}
+CALL_FN68_RUN_TASK
+FN68_STATUS 200
+FN68_TEXT {"data":[{"visible":true,"value":"\n<div class=\"loader-container\">\n  <div class=\"loader\"></div>\n  <div class=\"progress-container\">\n    <progress value=\"1\" max=\"100\"></progress>\n  </div>\n  <span>Waiting for task to start ...</span>\n</div>\n","__type__":"update"},{"visible":true,"value":null,"__type__":"update"},{"visible":false,"value":[],"__type__":"update"},{"visible":false,"__type__":"update"}],"is_generating":true,"duration":0.006312370300292969,"average_duration":0.006312370300292969}
+NO_GENERATED_FILE

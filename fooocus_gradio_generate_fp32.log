@@ -1,0 +1,38 @@
+Traceback (most recent call last):
+BEFORE_PNG 4
+Loaded as API: http://127.0.0.1:7869/ ✔
+CLIENT_READY
+ENDPOINT67_USE_WS True
+ENDPOINT68_USE_WS True
+PAYLOAD_LEN 153 CLIENT_PAYLOAD_LEN 152
+CALL_FN67_CREATE_TASK
+FN67_RESULT tuple ()
+CALL_FN68_RUN_TASK
+FN68_JOB_SUBMITTED
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\05_docs_reports\fooocus_gradio_generate_probe.py", line 68, in <module>
+    res68 = job.result(timeout=900)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 1120, in result
+    return super().result(timeout=timeout)
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 458, in result
+    return self.__get_result()
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Users\faisa\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 794, in _inner
+    predictions = self.process_predictions(*predictions)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 984, in process_predictions
+    predictions = self.deserialize(*predictions)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 970, in deserialize
+    [
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\client.py", line 971, in <listcomp>
+    s.deserialize(
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\serializing.py", line 203, in deserialize
+    file = utils.decode_base64_to_file(x, dir=save_dir)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\utils.py", line 436, in decode_base64_to_file
+    data, extension = decode_base64_to_binary(encoding)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\utils.py", line 401, in decode_base64_to_binary
+    extension = get_extension(encoding)
+  File "D:\zzipp\جي بي\الكميرا\_organized_generation_workspace_20260612\.venv_fooocus\lib\site-packages\gradio_client\utils.py", line 347, in get_extension
+    encoding = encoding.replace("audio/wav", "audio/x-wav")
+AttributeError: 'dict' object has no attribute 'replace'
