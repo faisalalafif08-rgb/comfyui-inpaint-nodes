@@ -3,3 +3,60 @@
 .dev
 __pycache__
 node.tar.gz
+
+# Python cache / virtual env
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+venv/
+.venv/
+env/
+
+# Local outputs and caches
+outputs/
+output/
+logs/
+cache/
+.cache/
+tmp/
+temp/
+
+# AI models and heavy generated assets - keep local
+models/
+checkpoints/
+loras/
+embeddings/
+vae/
+controlnet/
+repositories/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.bin
+*.gguf
+
+# Media outputs
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.flac
+
+# Archives and databases
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.db
+*.sqlite
+*.sqlite3
+
+# Copied git internals
+**/.git/
